@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="trualontu — быстрые чёрно-белые приложения для Windows 11 и Chrome" width="100%">
+<img src="assets/banner.png" alt="trualontu — быстрые чёрно-белые приложения для Windows 11" width="100%">
 
-Делаю лёгкие приложения для Windows 11 и Chrome — такие, какими пользуюсь сам каждый день.<br>
+Делаю лёгкие приложения для Windows 11 — такие, какими пользуюсь сам каждый день.<br>
 Без лишнего: ч/б интерфейс, 0% процессора в простое, всё на событиях системы.
 
 [![Сайт](https://img.shields.io/badge/trualontu.pages.dev-111?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://trualontu.pages.dev)
@@ -27,15 +27,10 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <a href="https://github.com/trualontuu/player"><img src="assets/noir.png" alt="Noir"></a>
 <h3><a href="https://github.com/trualontuu/player">Noir</a></h3>
 Чёрно-белый плеер Яндекс Музыки и SoundCloud: «Моя волна» с режимом CS2, ровная громкость по LUFS, ~59 МБ памяти.
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/trualontuu/chrome-poryadok"><img src="assets/poryadok.png" alt="Порядок"></a>
-<h3><a href="https://github.com/trualontuu/chrome-poryadok">Порядок</a></h3>
-Новая вкладка для Chrome: часы, поиск, расписание пар, а закладки сами разложены по папкам.
 </td>
 </tr>
 </table>
@@ -46,6 +41,5 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 ![.NET](https://img.shields.io/badge/.NET%2010-111?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-111?style=flat-square&logo=windows11&logoColor=white)
 ![WinRT](https://img.shields.io/badge/WinRT-111?style=flat-square&logo=windows11&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=ffd43b)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=f38020)
