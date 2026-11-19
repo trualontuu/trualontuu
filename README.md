@@ -18,12 +18,13 @@
 <a href="https://github.com/trualontuu/island"><img src="assets/island.png" alt="Island"></a>
 <h3><a href="https://github.com/trualontuu/island">Island</a></h3>
 Dynamic Island для Windows 11: музыка с текстом песен, уведомления, скриншоты и запись экрана, микшер, нейросеть — в капсуле сверху экрана.
-<br><br><a href="https://github.com/trualontuu/island-releases/releases/latest"><b>↓ Скачать</b></a>
+<br><br><a href="https://github.com/trualontuu/island-releases/releases/latest/download/Island.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/island#установка">как установить</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/trualontuu/launcher"><img src="assets/launcher.png" alt="Launcher"></a>
 <h3><a href="https://github.com/trualontuu/launcher">Launcher</a></h3>
 Свой Raycast для Windows 11: приложения, файлы, музыка и команды плеера по <kbd>Alt</kbd>+<kbd>Q</kbd>. Собственный индекс без Windows Search.
+<br><br><a href="https://github.com/trualontuu/launcher/releases/latest/download/Launcher.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/launcher#установка">как установить</a>
 </td>
 </tr>
 <tr>
@@ -31,11 +32,13 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 <a href="https://github.com/trualontuu/player"><img src="assets/noir.png" alt="Noir"></a>
 <h3><a href="https://github.com/trualontuu/player">Noir</a></h3>
 Чёрно-белый плеер Яндекс Музыки и SoundCloud: «Моя волна» с режимом CS2, ровная громкость по LUFS, ~59 МБ памяти.
+<br><br><a href="https://github.com/trualontuu/player/releases/latest/download/Noir.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/player#установка">как установить</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/trualontuu/noir-ios"><img src="assets/noir-ios.png" alt="Noir для iPhone"></a>
 <h3><a href="https://github.com/trualontuu/noir-ios">Noir для iPhone</a></h3>
 Тот же Noir в кармане: волна, загрузки без сети, фон и экран блокировки. И пульт для Noir на компьютере, как Spotify Connect.
+<br><br><a href="https://github.com/trualontuu/noir-ios#установка"><b>↓ Установить на iPhone</b></a> · без App Store, бесплатно
 </td>
 </tr>
 </table>
