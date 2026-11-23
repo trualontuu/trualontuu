@@ -41,10 +41,19 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 <br><br><a href="https://github.com/trualontuu/noir-ios#установка"><b>↓ Установить на iPhone</b></a> · без App Store, бесплатно
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+<a href="https://github.com/trualontuu/mono"><img src="assets/mono.png" alt="Mono" width="80%"></a>
+<h3><a href="https://github.com/trualontuu/mono">Mono</a></h3>
+Чёрно-белый браузер на Rust: свой блокировщик рекламы на 180 тысяч правил, ленивые вкладки, пароли через DPAPI и переезд из Chrome в один клик.
+<br><br><a href="https://github.com/trualontuu/mono/releases/latest/download/Mono.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/mono#установка">как установить</a>
+</td>
+</tr>
 </table>
 
 ## Стек
 
+![Rust](https://img.shields.io/badge/Rust-111?style=flat-square&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-111?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%2010-111?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-111?style=flat-square&logo=windows11&logoColor=white)
