@@ -42,11 +42,17 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
-<a href="https://github.com/trualontuu/mono"><img src="assets/mono.png" alt="Mono" width="80%"></a>
+<td width="50%" valign="top">
+<a href="https://github.com/trualontuu/mono"><img src="assets/mono.png" alt="Mono"></a>
 <h3><a href="https://github.com/trualontuu/mono">Mono</a></h3>
 Чёрно-белый браузер на Rust: свой блокировщик рекламы на 180 тысяч правил, ленивые вкладки, пароли через DPAPI и переезд из Chrome в один клик.
 <br><br><a href="https://github.com/trualontuu/mono/releases/latest/download/Mono.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/mono#установка">как установить</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/trualontuu/files"><img src="assets/files.png" alt="Files"></a>
+<h3><a href="https://github.com/trualontuu/files">Files</a></h3>
+Чёрно-белый файловый менеджер на Rust, быстрее Проводника: вкладки, предпросмотр, ZIP как папка, Ctrl+Z и свой прогресс копирования с отменой.
+<br><br><a href="https://github.com/trualontuu/files/releases/latest/download/Files.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/files#установка">как установить</a>
 </td>
 </tr>
 </table>
