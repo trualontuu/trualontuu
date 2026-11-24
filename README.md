@@ -21,10 +21,10 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 <br><br><a href="https://github.com/trualontuu/island-releases/releases/latest/download/Island.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/island#установка">как установить</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/trualontuu/launcher"><img src="assets/launcher.png" alt="Launcher"></a>
-<h3><a href="https://github.com/trualontuu/launcher">Launcher</a></h3>
-Свой Raycast для Windows 11: приложения, файлы, музыка и команды плеера по <kbd>Alt</kbd>+<kbd>Q</kbd>. Собственный индекс без Windows Search.
-<br><br><a href="https://github.com/trualontuu/launcher/releases/latest/download/Launcher.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/launcher#установка">как установить</a>
+<a href="https://github.com/trualontuu/files"><img src="assets/files.png" alt="Files"></a>
+<h3><a href="https://github.com/trualontuu/files">Files</a></h3>
+Чёрно-белый файловый менеджер на Rust, быстрее Проводника: вкладки, предпросмотр, ZIP как папка, Ctrl+Z и свой прогресс копирования с отменой.
+<br><br><a href="https://github.com/trualontuu/files/releases/latest/download/Files.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/files#установка">как установить</a>
 </td>
 </tr>
 <tr>
@@ -48,12 +48,7 @@ Dynamic Island для Windows 11: музыка с текстом песен, у�
 Чёрно-белый браузер на Rust: свой блокировщик рекламы на 180 тысяч правил, ленивые вкладки, пароли через DPAPI и переезд из Chrome в один клик.
 <br><br><a href="https://github.com/trualontuu/mono/releases/latest/download/Mono.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/mono#установка">как установить</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/trualontuu/files"><img src="assets/files.png" alt="Files"></a>
-<h3><a href="https://github.com/trualontuu/files">Files</a></h3>
-Чёрно-белый файловый менеджер на Rust, быстрее Проводника: вкладки, предпросмотр, ZIP как папка, Ctrl+Z и свой прогресс копирования с отменой.
-<br><br><a href="https://github.com/trualontuu/files/releases/latest/download/Files.zip"><b>↓ Скачать для Windows</b></a> · <a href="https://github.com/trualontuu/files#установка">как установить</a>
-</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
