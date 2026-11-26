@@ -8,6 +8,8 @@
 [![Сайт](https://img.shields.io/badge/trualontu.pages.dev-111?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://trualontu.pages.dev)
 [![Telegram](https://img.shields.io/badge/@trualontuu-111?style=for-the-badge&logo=telegram&logoColor=2aabee)](https://t.me/trualontuu)
 
+<a href="https://trualontu.pages.dev/media/lineup.mp4"><img src="assets/lineup.jpg" alt="Ролик: все приложения за минуту" width="100%"></a>
+
 </div>
 
 ## Проекты
